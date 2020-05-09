@@ -1,0 +1,8 @@
+{
+    "block.unifiedores.copper_ore": "Kupfererz",
+    "block.unifiedores.copper_block": "Kupferblock",
+    "item.unifiedores.copper_nugget": "Kupfernugget",
+    "item.unifiedores.copper_ingot": "Kupferbarren",
+    "item.unifiedores.copper_dust": "Kupferstaub",
+    "itemGroup.unifiedores.name": "UnifiedOres"
+}

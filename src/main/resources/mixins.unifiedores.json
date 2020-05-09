@@ -1,0 +1,11 @@
+{
+  "package": "de.erdbeerbaerlp.unifiedores.mixin",
+  "refmap": "mixins.unifiedores.refmap.json",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "required": true,
+  "mixins": [
+    "MixinAddOres",
+    "MixinRecipes"
+  ]
+}

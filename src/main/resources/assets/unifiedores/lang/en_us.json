@@ -1,0 +1,8 @@
+{
+    "block.unifiedores.copper_ore": "Copper Ore",
+    "block.unifiedores.copper_block": "Copper Block",
+    "item.unifiedores.copper_nugget": "Copper Nugget",
+    "item.unifiedores.copper_ingot": "Copper Ingot",
+    "item.unifiedores.copper_dust": "Copper Dust",
+    "itemGroup.unifiedores.name": "UnifiedOres"
+}
